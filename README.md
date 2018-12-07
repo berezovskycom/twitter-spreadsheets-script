@@ -1,0 +1,1 @@
+The main idea is that you can get and paste data from the rows in Google Spreadsheets and run a twitter bot if rows include link to a twitter account, whereas you can tweet to this person.

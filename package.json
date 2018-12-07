@@ -1,0 +1,20 @@
+{
+  "name": "medium-hack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "googleapis": "^27.0.0",
+    "medium-sdk": "0.0.4",
+    "twit": "^2.2.11"
+  },
+  "devDependencies": {
+    "jsdom": "^13.0.0",
+    "request": "^2.88.0"
+  }
+}
